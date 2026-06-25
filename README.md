@@ -41,7 +41,7 @@ Paste a form schema, get plain-language validation feedback you can act on — n
 
 ### 📫 Reach me
 
-[Portfolio](LINK) · [LinkedIn](https://www.linkedin.com/in/jacob-ortiz-152660335/) · [Email](mailto:ISRAELJORTIZCPSC@EMAIL.com)
+[Portfolio](https://israelortizcpsc.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/jacob-ortiz-152660335/) · [Email](mailto:ISRAELJORTIZCPSC@EMAIL.com)
 
 <!-- Tip: keep this README honest and current. Pin CraneForms first in your profile's pinned repos.
      Want it more minimal? Delete the emoji and the rules. Want more personality? Add a one-line
