@@ -6,7 +6,7 @@
      Replace every [bracket]. Keep only what is TRUE.
      ============================================================================ -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Israel O.] 👋
 
 **Full-stack web developer** — TypeScript/React on the front, Python/Django on the back. I like turning large, messy datasets into web apps that people actually use to make decisions. Based near Ashburn, VA.
 
